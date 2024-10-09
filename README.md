@@ -2,14 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/dorofeev_daniil">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Сетка-purple?style=for-the-badge&logo=site&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://set.ki/QYvWi5U">
+    <img src="https://img.shields.io/badge/Сетка-purple?style=for-the-badge&logo=site&logoColor=white" alt="Setka Badge"/>
   </a>
 </div>
 <div align="center">
