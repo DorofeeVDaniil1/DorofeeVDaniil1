@@ -18,13 +18,35 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif?cid=ecf05e47ffnhu2hr6aculow7h7r6zl1x2io13t0x0v86kg6t&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 <h3 align="center">
   Обо мне
 </h3>
 <div>
-  Я студент ИРНИТУ 4 курс
+
+<p>Меня зовут Даниил Дорофеев, я back-end разработчик, специализирующийся на Java и Kotlin. В настоящее время работаю junior back-end разработчиком в компании "SMART DATA", где занимаюсь обработкой больших объемов данных, разработкой API и оптимизацией запросов в базах данных PostgreSQL и ClickHouse. Также имею опыт работы с Docker, Spring Security и системами контроля версий на базе GitLab.</p>
+
+<p>Я обучаюсь на бакалавра по направлению "Информационные системы и технологии" в ИРНИТУ и непрерывно совершенствую свои навыки в разработке программного обеспечения. Моя цель – стать востребованным специалистом в back-end разработке и запустить свой собственный IT стартап.</p>
+
+<h3>Навыки</h3>
+<ul>
+  <li><strong>Языки программирования:</strong> Java, Kotlin, SQL, ClickHouse, HTML/CSS</li>
+  <li><strong>Технологии и инструменты:</strong> Hibernate, SOUP, GSON, IntelliJ IDEA, PostgreSQL, Docker, Git, GitLab</li>
+  <li><strong>Soft Skills:</strong> Умение выступать на публике, работа в команде, лидерские качества, планирование задач</li>
+  <li><strong>Языки:</strong> Английский (B2 - Intermediate)</li>
+</ul>
+
+<h3>Проекты</h3>
+<ul>
+  <li><strong>ConverterBot:</strong> Телеграмм-бот для конвертации валют.</li>
+  <li><strong>VKToCalendar:</strong> Инструмент для репоста из ВКонтакте в Google Календарь.</li>
+  <li><strong>NASAApp:</strong> Приложение для скачивания спутниковых изображений NASA и отображения их деталей.</li>
+  <li><strong>Node Parser:</strong> Программа для работы с API OSM, получающая geo-json данные для логистических проектов.</li>
+</ul>
+
+<p>Больше информации вы можете найти на моем <a href="https://github.com/DorofeeVDaniil1">GitHub профиле</a>.</p>
+
 </div>
 
 <div align="center">
